@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Meshal
+Game programmer | unity | C#
+I’m currently working on Action-Adventure game.
+
+CV:
+Aspiring Junior Mobile game programmer with a passion for developing action-adventure games. Recent graduate with associate degree in Unity mobile game programer from Integrify.
+
+I have developed mini games games using c# and unity.
+
+I would love to work on Triple A Action-Adventure, survival games.
+
 
 <!--
 **Mesh98Dev/Mesh98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
